@@ -1,0 +1,19 @@
+p.odd {
+    background-color: rgba(253, 63, 146, 1);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+p.odd.bolder {
+    font-size: 24px;
+}
+
+#bleuzer {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#greenzer {
+    background-color: rgba(37, 226, 12, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
